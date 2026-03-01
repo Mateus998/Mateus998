@@ -1,5 +1,9 @@
 # 💫 About Me:
-currently a 42 Lisboa student<br>currently learning c and c++ on 42 Lisboa<br>leaning python for AI development
+I am a student at 42 Lisboa, part of the global 42 School network — an innovative, project-based programming school known for its peer-to-peer learning model and strong focus on problem solving, autonomy, and practical software development.
+
+Currently, I am focused on learning C and C++, building a solid foundation in low-level programming, algorithms, memory management, and system thinking. The 42 methodology challenges students to develop resilience, collaboration skills, and the ability to learn independently — qualities I continuously apply to my growth as a developer.
+
+Alongside my core curriculum, I am studying Python with the goal of exploring Artificial Intelligence development. At the moment, AI is an area of strong interest and curiosity for me.
 
 
 ## 🌐 Socials:
