@@ -5,6 +5,25 @@ Currently, I am focused on learning C and C++, building a solid foundation in lo
 
 Alongside my core curriculum, I am studying Python with the goal of exploring Artificial Intelligence development. At the moment, AI is an area of strong interest and curiosity for me.
 
+## 🧠 Selected Work
+
+A selection of projects developed during my studies at 42 Lisboa, focused on systems programming, algorithms, and software engineering fundamentals.
+
+### 🤝 Group Projects
+
+| Project | Description | Tech |
+|-------|-------------|------|
+| [Minishell](https://github.com/martimsaunders/minishell) | Implementation of a simplified Unix shell capable of executing commands, handling pipes, redirections, and environment variables. | C, Unix |
+| [Cub3D](https://github.com/martimsaunders/cub3D) | A 3D game engine inspired by Wolfenstein 3D using raycasting to render a dynamic environment. | C, Graphics, Algorithms |
+| [Webserver](https://github.com/martimsaunders/webserver) | A custom HTTP web server built from scratch, handling requests, responses, and server configuration. | C++, Networking |
+
+### 👨‍💻 Individual Projects
+
+| Project | Description | Tech |
+|-------|-------------|------|
+| [Push Swap](https://github.com/Mateus998/push_swap) | Sorting algorithm project focused on optimizing operations using two stacks and a limited set of instructions. | C, Algorithms |
+| [So Long](https://github.com/Mateus998/so_long) | A small 2D game where the player collects items and reaches the exit, built with a simple graphics library. | C, Graphics |
+| [Philosophers](https://github.com/Mateus998/Philosophers) | Implementation of the Dining Philosophers problem exploring threads, synchronization, and race condition management. | C, Multithreading |
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mateus-leite-62108a219) 
